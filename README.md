@@ -2,13 +2,13 @@
 ## I'm Danielle 👩🏻‍💻
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on strengthening my UI design skills as well as working with APIs
 
 <!--
 **k16ds01/k16ds01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on strengthening my UI design skills as well as working with APIs
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
